@@ -1,228 +1,174 @@
-<!-- ===================================================== -->
-<!-- JABNEEL PAREDES | GITHUB PROFILE README               -->
-<!-- ===================================================== -->
+ <div align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:0F172A,55:1D4ED8,80:0891B2,100:22D3EE&text=JABNEEL.exe&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20%7C%20NETWORKS%20%7C%20INFRASTRUCTURE&descSize=15&descAlignY=60&animation=twinkling" alt="Jabneel Paredes"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=JABNEEL%20PAREDES&fontSize=46&fontColor=FFFFFF&fontAlignY=37&desc=CODE%20%7C%20NETWORKS%20%7C%20TECHNOLOGY&descSize=18&descAlignY=58&animation=twinkling&color=0:07152B,25:123D70,50:075985,75:2563EB,100:06B6D4" alt="Jabneel Paredes | Code, Networks and Technology"/>
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=%3E+Initializing+Jabneel.exe...;%3E+Loading+technology+stack...;%3E+Building+software+and+network+solutions...;%3E+Monitoring+infrastructure+with+Zabbix...;%3E+Welcome+to+my+digital+workspace!" alt="Animated terminal"/>
 
 <a href="https://github.com/JabneelParedes4">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20projects-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/jabneel-paredes-a3187b3a9">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=IT+%26+Communications+Engineering+Student;Web+Development+%7C+Programming;Networks+%26+IT+Infrastructure;Zabbix+%7C+SNMP+%7C+Linux;Turning+ideas+into+technology" alt="Animated professional introduction"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/FOCUS-Software%20%26%20Networks-0C4A6E?style=flat-square&labelColor=07152B" alt="Software and networks"/>
-<img src="https://img.shields.io/badge/LOCATION-Hidalgo%2C%20Mexico-075985?style=flat-square&labelColor=07152B" alt="Hidalgo Mexico"/>
-<img src="https://img.shields.io/badge/STATUS-Engineering%20Student-0891B2?style=flat-square&labelColor=07152B" alt="Engineering student"/>
 
 </div>
 
 ---
 
-## About me
+## 🧑‍💻 `whoami` — About me
 
-<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated programming illustration"/>
+<div align="center">
+<img align="right" width="230" src="assets/robot.png" alt="Jabneel's futuristic 3D robot assistant"/>
+</div>
 
 Hi! I'm **Jabneel Paredes Cruz**, an Information Technology and Communications Engineering student at ITSOEH, Mexico.
 
-I'm interested in the intersection of **software development, programming, computer networks and IT infrastructure**. I enjoy learning by building projects, solving technical problems and exploring how software and network systems work together.
+I'm interested in combining **software development, programming, computer networks and IT infrastructure** to build practical technology solutions.
 
-Currently, I'm developing my technical skills through academic projects and a residency project focused on centralized infrastructure monitoring using **Zabbix and SNMP**.
+Currently, one of my main projects is the implementation of a centralized monitoring and inventory platform using **Zabbix, SNMP and Linux**.
 
 - 💻 Programming and web development
-- 🌐 Computer networks and infrastructure
-- 🖥️ Linux and system administration
-- 📊 Infrastructure monitoring and inventory
-- 🚀 Continuous learning and hands-on projects
+- 🌐 Network administration and infrastructure
+- 🖥️ Linux and system monitoring
+- 📊 Network inventory and visualization
+- 🚀 Continuous learning and technical problem-solving
 
 <br clear="right"/>
 
 ---
 
-## Tech stack
+## ⚡ `tech --stack` — Technologies
 
 <div align="center">
 
 ### 💻 Programming & Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="HTML CSS JavaScript TypeScript React Next.js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,cpp&theme=dark" alt="Programming technologies"/>
 
-### 🌐 Networking & Infrastructure
+### 🌐 Networks & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" alt="Linux Bash Git GitHub Visual Studio Code"/>
-
-<br/>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" alt="Linux and development tools"/>
 
 <img src="https://img.shields.io/badge/Zabbix-Monitoring-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
-<img src="https://img.shields.io/badge/SNMP-Network%20Management-0E7490?style=for-the-badge" alt="SNMP"/>
+<img src="https://img.shields.io/badge/SNMP-Network%20Monitoring-0891B2?style=for-the-badge" alt="SNMP"/>
 <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-0B6E99?style=for-the-badge" alt="Cisco Packet Tracer"/>
 <img src="https://img.shields.io/badge/VirtualBox-Virtualization-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
 
 </div>
 
-<sub>Las tecnologías mostradas representan herramientas utilizadas en prácticas y proyectos. La profundidad de experiencia varía según cada tecnología.</sub>
+---
+
+## 🚀 `ls ./featured-projects` — Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🤖 Zabbix Infrastructure Monitoring</h3>
+
+<img src="https://img.shields.io/badge/NETWORKS-ZABBIX-CC0000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix project"/>
+
+Centralized infrastructure monitoring and inventory project focused on network visibility, metric collection and incident detection.
+
+**Technologies:** Zabbix, SNMP, Linux.
+
+<sub>Residency project — technical documentation in progress.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💻 Data Structures</h3>
+
+<img src="https://img.shields.io/badge/PROGRAMMING-ALGORITHMS-2563EB?style=flat-square&logo=github&logoColor=white" alt="Programming project"/>
+
+Programming exercises and data structure practice focused on logical thinking and problem-solving.
+
+<a href="https://github.com/JabneelParedes4/EstructuraDatos">Explore repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌐 Web Development</h3>
+
+<img src="https://img.shields.io/badge/WEB-HTML%20%7C%20CSS%20%7C%20JS-0891B2?style=flat-square&logo=html5&logoColor=white" alt="Web development"/>
+
+Academic web development projects and interface-building practice.
+
+<a href="https://github.com/JabneelParedes4?tab=repositories">Explore my repositories →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⚡ Next.js Dashboard</h3>
+
+<img src="https://img.shields.io/badge/FRONTEND-NEXT.JS-0F172A?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+
+A web development repository to explore frontend structure and modern application development.
+
+<a href="https://github.com/JabneelParedes4/nextjs-dashboard">Explore repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧩 Human-Computer Interaction</h3>
+
+<img src="https://img.shields.io/badge/ACADEMIC-UI%20%2F%20UX-4F46E5?style=flat-square" alt="Human-computer interaction"/>
+
+Academic work related to interfaces and human-computer interaction.
+
+<a href="https://github.com/JabneelParedes4/IHCFii">Explore IHCFii →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌱 Florisoft</h3>
+
+<img src="https://img.shields.io/badge/PROJECT-TECHNOLOGY-0284C7?style=flat-square" alt="Florisoft"/>
+
+A project repository that can be explored to review its implementation and technical content.
+
+<a href="https://github.com/JabneelParedes4/Florisoft">Explore repository →</a>
+
+<sub>Forked project; original contributions should be identified separately.</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured projects
+## 📊 `git stats` — GitHub activity
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+%7C+Testing+%7C+Learning;From+code+to+infrastructure" alt="Animated projects heading"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JabneelParedes4&show_icons=true&hide_border=true&bg_color=07152B&title_color=38BDF8&text_color=C9DDF5&icon_color=60A5FA" alt="GitHub statistics"/>
 
-</div>
-
-### 💻 Programming & Data Structures
-
-<a href="https://github.com/JabneelParedes4/EstructuraDatos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JabneelParedes4&repo=EstructuraDatos&theme=tokyonight&hide_border=true&bg_color=07152B&title_color=38BDF8&icon_color=60A5FA" alt="EstructuraDatos repository"/>
-</a>
-
-Repository of programming exercises and data structure practice. A place to demonstrate problem-solving, logical thinking and progress in software development.
-
-**Focus:** Programming · Algorithms · Data structures
-
-### 🌐 Web Development
-
-<details>
-<summary><b>⚡ Flosisoft — HTML project</b></summary>
-
-An academic web development repository using HTML.
-
-[Explore Flosisoft](https://github.com/JabneelParedes4/Flosisoft)
-
-</details>
-
-<details>
-<summary><b>🎨 IHCFiigura — Web practice</b></summary>
-
-Repository associated with an academic human-computer interaction activity.
-
-[Explore IHCFiigura](https://github.com/JabneelParedes4/IHCFiigura)
-
-</details>
-
-<details>
-<summary><b>🧩 IHCFii — Human-Computer Interaction</b></summary>
-
-Academic work related to human-computer interaction and interface design.
-
-[Explore IHCFii](https://github.com/JabneelParedes4/IHCFii)
-
-</details>
-
-<details>
-<summary><b>📊 Next.js Dashboard — Development practice</b></summary>
-
-A repository described as a personal practice project, using TypeScript. Its current implementation can be explored in the source code.
-
-[Explore Next.js Dashboard](https://github.com/JabneelParedes4/nextjs-dashboard)
-
-</details>
-
-### 🌍 Networks & IT Infrastructure
-
-<details>
-<summary><b>🔌 Florisoft — Network infrastructure project</b></summary>
-
-A project focused on designing and documenting network infrastructure to support communication between components of a management system.
-
-[Explore Florisoft](https://github.com/JabneelParedes4/Florisoft)
-
-<sub>This is a fork of another repository. Original work and personal contributions should be distinguished clearly.</sub>
-
-</details>
-
-### 🖥️ Infrastructure Monitoring — Zabbix
-
-<details>
-<summary><b>📡 Centralized Monitoring & Inventory Platform</b></summary>
-
-**Project:** Implementation of a centralized technology infrastructure monitoring and inventory platform using Zabbix.
-
-**Objective:** Improve visibility into infrastructure, organize device inventory and support early detection of incidents.
-
-**Technical scope:**
-- Zabbix server and dashboard configuration
-- SNMP-based monitoring of network devices
-- Zabbix Agent for server monitoring
-- Device inventory and metric collection
-- Alerts and monitoring dashboards
-- Technical documentation
-
-<sub>Residency project. This section describes the project and does not imply that its company configuration or code is publicly available.</sub>
-
-</details>
-
----
-
-## GitHub analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JabneelParedes4&show_icons=true&rank_icon=github&hide_border=true&bg_color=07152B&title_color=38BDF8&text_color=C9DDF5&icon_color=60A5FA" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JabneelParedes4&layout=compact&hide_border=true&bg_color=07152B&title_color=38BDF8&text_color=C9DDF5" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JabneelParedes4&layout=compact&hide_border=true&bg_color=07152B&title_color=38BDF8&text_color=C9DDF5" alt="Programming languages"/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=JabneelParedes4&hide_border=true&background=07152B&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8&sideLabels=C9DDF5&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JabneelParedes4&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Learning+%7C+Building+%7C+Improving;Every+project+is+a+new+challenge" alt="Animated closing text"/>
 
 </div>
 
-<sub>Estas métricas dependen de los repositorios públicos, de la actividad registrada y de servicios externos. No representan por sí solas todas las habilidades técnicas.</sub>
-
 ---
 
-## Currently learning
+## 🤖 `system --status`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-Software%20Development-1D4ED8?style=for-the-badge" alt="Software development"/>
-<img src="https://img.shields.io/badge/02-Network%20Monitoring-0369A1?style=for-the-badge" alt="Network monitoring"/>
-<img src="https://img.shields.io/badge/03-Linux%20Administration-0E7490?style=for-the-badge" alt="Linux administration"/>
-<img src="https://img.shields.io/badge/04-Web%20Technologies-4338CA?style=for-the-badge" alt="Web technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+Exploring+new+technologies...;%5BCODE%5D+Turning+ideas+into+solutions...;%5BNETWORK%5D+Connecting+systems...;%5BSTATUS%5D+Always+learning." alt="Animated system status"/>
 
-</div>
-
-My goal is to continue growing as a technology professional by combining programming skills with a solid understanding of networks and infrastructure.
-
----
-
-## Let's connect
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Code+with+purpose.;Connect+systems.;Keep+learning." alt="Animated closing message"/>
-
-<br/><br/>
+**CODE • CONNECT • INNOVATE**
 
 <a href="https://github.com/JabneelParedes4">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/Explore-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
 </a>
-
-<a href="https://www.linkedin.com/in/jabneel-paredes-a3187b3a9">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
-</a>
-
-<br/><br/>
-
-**`CODE • CONNECT • INNOVATE`**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,35:2563EB,70:123D70,100:07152B" alt="Animated blue footer"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,35:2563EB,70:123D70,100:07152B" alt="Blue footer"/>
