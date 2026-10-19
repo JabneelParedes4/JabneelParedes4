@@ -18,7 +18,7 @@
 **Estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones**  
 *Redes · Infraestructura tecnológica · Monitoreo · Desarrollo de software*
 
-🇲🇽 Hidalgo, México
+Hidalgo, México
 
 </div>
 
