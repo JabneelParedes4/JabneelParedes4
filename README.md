@@ -1,174 +1,146 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:0F172A,55:1D4ED8,80:0891B2,100:22D3EE&text=JABNEEL.exe&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20%7C%20NETWORKS%20%7C%20INFRASTRUCTURE&descSize=15&descAlignY=60&animation=twinkling" alt="Jabneel Paredes"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:123B5D,100:00C2D1&text=JABNEEL%20PAREDES&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=NETWORKS%20%7C%20IT%20INFRASTRUCTURE%20%7C%20MONITORING&descAlignY=60&descSize=14&animation=fadeIn" alt="Jabneel Paredes - Networks, IT Infrastructure and Monitoring" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=%3E+Initializing+Jabneel.exe...;%3E+Loading+technology+stack...;%3E+Building+software+and+network+solutions...;%3E+Monitoring+infrastructure+with+Zabbix...;%3E+Welcome+to+my+digital+workspace!" alt="Animated terminal"/>
+<br/>
 
 <a href="https://github.com/JabneelParedes4">
-<img src="https://img.shields.io/badge/GitHub-Explore%20my%20projects-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-My%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/jabneel-paredes-a3187b3a9">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00C2D1&center=true&vCenter=true&width=700&lines=IT+%26+Communications+Engineering+Student;Networking+%26+Infrastructure;Network+Monitoring+with+Zabbix;Learning%2C+Building+%26+Improving" alt="Animated introduction"/>
+
+**Estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones**  
+*Redes · Infraestructura tecnológica · Monitoreo · Desarrollo de software*
+
+🇲🇽 Hidalgo, México
+
 </div>
 
 ---
 
-## 🧑‍💻 `whoami` — About me
+### `> whoami` · Sobre mí
 
-<div align="center">
-<img align="right" width="230" src="assets/robot.png" alt="Jabneel's futuristic 3D robot assistant"/>
-</div>
+¡Hola! Soy **Jabneel Paredes Cruz**, estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones en el ITSOEH.
 
-Hi! I'm **Jabneel Paredes Cruz**, an Information Technology and Communications Engineering student at ITSOEH, Mexico.
+Me interesa especialmente la administración de redes, la infraestructura tecnológica, la supervisión de dispositivos y la solución de problemas técnicos. Busco fortalecer mis conocimientos mediante proyectos prácticos que me permitan comprender, configurar y mejorar los sistemas de TI.
 
-I'm interested in combining **software development, programming, computer networks and IT infrastructure** to build practical technology solutions.
+Actualmente, uno de mis principales proyectos es la implementación de una plataforma centralizada de monitoreo e inventario de infraestructura tecnológica mediante **Zabbix**, trabajando con dispositivos de red y tecnologías como SNMP.
 
-Currently, one of my main projects is the implementation of a centralized monitoring and inventory platform using **Zabbix, SNMP and Linux**.
-
-- 💻 Programming and web development
-- 🌐 Network administration and infrastructure
-- 🖥️ Linux and system monitoring
-- 📊 Network inventory and visualization
-- 🚀 Continuous learning and technical problem-solving
-
-<br clear="right"/>
-
----
-
-## ⚡ `tech --stack` — Technologies
+### `> tech --stack` · Tecnologías y herramientas
 
 <div align="center">
 
-### 💻 Programming & Web Development
+**Redes e infraestructura**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,cpp&theme=dark" alt="Programming technologies"/>
+<img src="https://img.shields.io/badge/Networking-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+<img src="https://img.shields.io/badge/SNMP-0F766E?style=for-the-badge" alt="SNMP"/>
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 
-### 🌐 Networks & Infrastructure
+**Desarrollo y herramientas**
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" alt="Linux and development tools"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode&theme=dark" alt="HTML CSS JavaScript TypeScript Git GitHub VS Code"/>
 
-<img src="https://img.shields.io/badge/Zabbix-Monitoring-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
-<img src="https://img.shields.io/badge/SNMP-Network%20Monitoring-0891B2?style=for-the-badge" alt="SNMP"/>
-<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-0B6E99?style=for-the-badge" alt="Cisco Packet Tracer"/>
-<img src="https://img.shields.io/badge/VirtualBox-Virtualization-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+**Laboratorios y administración**
+
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge" alt="Cisco Packet Tracer"/>
+<img src="https://img.shields.io/badge/PuTTY-005A9C?style=for-the-badge" alt="PuTTY"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
 
 </div>
 
----
-
-## 🚀 `ls ./featured-projects` — Featured projects
+### `> ls ./featured-projects` · Proyectos destacados
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 Zabbix Infrastructure Monitoring</h3>
+<h3>🖥️ Monitoreo con Zabbix</h3>
 
-<img src="https://img.shields.io/badge/NETWORKS-ZABBIX-CC0000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix project"/>
+**Tecnologías:** Zabbix · Linux · SNMP
 
-Centralized infrastructure monitoring and inventory project focused on network visibility, metric collection and incident detection.
+Proyecto de residencia enfocado en centralizar el monitoreo y el inventario de infraestructura tecnológica. Incluye trabajo con dispositivos de red, recopilación de métricas y organización de información para facilitar la supervisión.
 
-**Technologies:** Zabbix, SNMP, Linux.
-
-<sub>Residency project — technical documentation in progress.</sub>
+**Estado:** En desarrollo y documentación.
 
 </td>
 <td width="50%" valign="top">
 
-<h3>💻 Data Structures</h3>
+<h3>🌐 Florisoft</h3>
 
-<img src="https://img.shields.io/badge/PROGRAMMING-ALGORITHMS-2563EB?style=flat-square&logo=github&logoColor=white" alt="Programming project"/>
+**Área:** Redes e infraestructura
 
-Programming exercises and data structure practice focused on logical thinking and problem-solving.
+Proyecto académico orientado al diseño y documentación de una infraestructura de red para facilitar la comunicación entre los componentes de un sistema de gestión.
 
-<a href="https://github.com/JabneelParedes4/EstructuraDatos">Explore repository →</a>
+<a href="https://github.com/JabneelParedes4/Florisoft">Consultar repositorio</a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🌐 Web Development</h3>
-
-<img src="https://img.shields.io/badge/WEB-HTML%20%7C%20CSS%20%7C%20JS-0891B2?style=flat-square&logo=html5&logoColor=white" alt="Web development"/>
-
-Academic web development projects and interface-building practice.
-
-<a href="https://github.com/JabneelParedes4?tab=repositories">Explore my repositories →</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>⚡ Next.js Dashboard</h3>
-
-<img src="https://img.shields.io/badge/FRONTEND-NEXT.JS-0F172A?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-
-A web development repository to explore frontend structure and modern application development.
-
-<a href="https://github.com/JabneelParedes4/nextjs-dashboard">Explore repository →</a>
+<sub>Repositorio derivado de un proyecto original. Las contribuciones propias deben identificarse por separado.</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧩 Human-Computer Interaction</h3>
+<h3>💻 EstructuraDatos</h3>
 
-<img src="https://img.shields.io/badge/ACADEMIC-UI%20%2F%20UX-4F46E5?style=flat-square" alt="Human-computer interaction"/>
+**Área:** Programación y estructuras de datos
 
-Academic work related to interfaces and human-computer interaction.
+Repositorio de ejercicios y prácticas de programación, con ejemplos relacionados con algoritmos, estructuras de datos y resolución de problemas.
 
-<a href="https://github.com/JabneelParedes4/IHCFii">Explore IHCFii →</a>
+<a href="https://github.com/JabneelParedes4/EstructuraDatos">Explorar código</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🌱 Florisoft</h3>
+<h3>⚡ Desarrollo web</h3>
 
-<img src="https://img.shields.io/badge/PROJECT-TECHNOLOGY-0284C7?style=flat-square" alt="Florisoft"/>
+**Tecnologías:** HTML · JavaScript · TypeScript
 
-A project repository that can be explored to review its implementation and technical content.
+Prácticas académicas de desarrollo y organización de interfaces web. El portafolio incluye ejercicios y proyectos que permiten mostrar mi aprendizaje en programación.
 
-<a href="https://github.com/JabneelParedes4/Florisoft">Explore repository →</a>
-
-<sub>Forked project; original contributions should be identified separately.</sub>
+<a href="https://github.com/JabneelParedes4/nextjs-dashboard">Ver Next.js Dashboard</a>
 
 </td>
 </tr>
 </table>
 
----
-
-## 📊 `git stats` — GitHub activity
+### `> git stats` · Mi actividad en GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JabneelParedes4&show_icons=true&hide_border=true&bg_color=07152B&title_color=38BDF8&text_color=C9DDF5&icon_color=60A5FA" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JabneelParedes4&show_icons=true&theme=transparent&hide_border=true&title_color=00C2D1&icon_color=0EA5E9&text_color=64748B" alt="Estadísticas de GitHub"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JabneelParedes4&layout=compact&hide_border=true&bg_color=07152B&title_color=38BDF8&text_color=C9DDF5" alt="Programming languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JabneelParedes4&layout=compact&theme=transparent&hide_border=true&title_color=00C2D1&text_color=64748B" alt="Lenguajes de programación"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JabneelParedes4&theme=transparent&hide_border=true&ring=00C2D1&fire=0EA5E9&currStreakLabel=00C2D1" alt="Racha de contribuciones"/>
+
+<sub>Las estadísticas dependen de la actividad pública y de la disponibilidad de servicios externos.</sub>
+
+</div>
+
+### `> connect --with-me` · Contacto
+
+¿Te interesan las redes, la infraestructura de TI o los proyectos tecnológicos? Puedes conocer mis repositorios y conectar conmigo.
+
+<div align="center">
+
+<a href="https://github.com/JabneelParedes4">
+<img src="https://img.shields.io/badge/GitHub-JabneelParedes4-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/jabneel-paredes-a3187b3a9">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Learning+%7C+Building+%7C+Improving;Every+project+is+a+new+challenge" alt="Animated closing text"/>
+**Building connections. Monitoring systems. Solving problems.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0B1020,50:123B5D,100:00C2D1" alt="Footer"/>
 
 </div>
-
----
-
-## 🤖 `system --status`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+Exploring+new+technologies...;%5BCODE%5D+Turning+ideas+into+solutions...;%5BNETWORK%5D+Connecting+systems...;%5BSTATUS%5D+Always+learning." alt="Animated system status"/>
-
-**CODE • CONNECT • INNOVATE**
-
-<a href="https://github.com/JabneelParedes4">
-<img src="https://img.shields.io/badge/Explore-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
-</a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,35:2563EB,70:123D70,100:07152B" alt="Blue footer"/>
