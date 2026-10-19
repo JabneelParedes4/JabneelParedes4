@@ -24,7 +24,7 @@
 
 ---
 
-### `> whoami` · Sobre mí
+### · Sobre mí
 
 ¡Hola! Soy **Jabneel Paredes Cruz**, estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones en el ITSOEH.
 
@@ -32,7 +32,7 @@ Me interesa especialmente la administración de redes, la infraestructura tecnol
 
 Actualmente, uno de mis principales proyectos es la implementación de una plataforma centralizada de monitoreo e inventario de infraestructura tecnológica mediante **Zabbix**, trabajando con dispositivos de red y tecnologías como SNMP.
 
-### `> tech --stack` · Tecnologías y herramientas
+### · Tecnologías y herramientas
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Prácticas académicas de desarrollo y organización de interfaces web. El porta
 </tr>
 </table>
 
-### `> git stats` · Mi actividad en GitHub
+### · Mi actividad en GitHub
 
 <div align="center">
 
@@ -124,7 +124,7 @@ Prácticas académicas de desarrollo y organización de interfaces web. El porta
 
 </div>
 
-### `> connect --with-me` · Contacto
+### · Contacto
 
 ¿Te interesan las redes, la infraestructura de TI o los proyectos tecnológicos? Puedes conocer mis repositorios y conectar conmigo.
 
