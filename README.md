@@ -55,7 +55,7 @@ Actualmente, uno de mis principales proyectos es la implementación de una plata
 
 </div>
 
-### `> ls ./featured-projects` · Proyectos destacados
+### · Proyectos destacados
 
 <table>
 <tr>
